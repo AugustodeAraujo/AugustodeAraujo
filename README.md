@@ -14,13 +14,13 @@ Hello there! 👋
 I'm Dennis Augusto, but you can call me Augusto. I'm a advertising graduated in Brazil, currently studying/working on my new carrer as a Software Engineer. 😄
 
 Find me
-https://img.shields.io/twitter/url?label=%40haterhonesto&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fhaterhonesto
+
 </br>
 </br>
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=df7444)
+![Contact me](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=df7444)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat-square&logo=Node.js&logoColor=white&color=df7444)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=df7444)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat-square&logo=Next.js&logoColor=white&color=df7444)
