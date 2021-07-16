@@ -13,7 +13,8 @@ Hello there! 👋
 
 I'm Dennis Augusto, but you can call me Augusto. I'm a advertising graduated in Brazil, currently studying/working on my new carrer as a Software Engineer. 😄
 
-Want to know more about me? [Contact me.](https://www.instagram.com/haterhonesto/)
+Find me
+https://img.shields.io/twitter/url?label=%40haterhonesto&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fhaterhonesto
 </br>
 </br>
 
