@@ -26,7 +26,7 @@ I'm Dennis Augusto, but you can call me Augusto. I'm a advertising graduated in 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=df7444)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=df7444)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat-square&logo=Next.js&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=PHPt&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=HTML5&logoColor=white&color=df7444)
 </br>
 </br>
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat-square&logo=MySQL&logoColor=white&color=df7444)
