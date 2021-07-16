@@ -13,14 +13,15 @@ Hello there! 👋
 
 I'm Dennis Augusto, but you can call me Augusto. I'm a advertising graduated in Brazil, currently studying/working on my new carrer as a Software Engineer. 😄
 
-Find me
+ ##📫 How to reach me:
+ ![](https://img.shields.io/badge/Code-Discord-informational?style=flat-square&logo=Discord&logoColor=white&color=df7444)
 
 </br>
 </br>
 
 ## 💼 Skills
 
-![Contact me](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=df7444)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat-square&logo=Node.js&logoColor=white&color=df7444)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=df7444)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat-square&logo=Next.js&logoColor=white&color=df7444)
@@ -29,8 +30,7 @@ Find me
 </br>
 </br>
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Style-Less-informational?style=flat-square&logo=less&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Style-AntDesign-informational?style=flat-square&logo=Ant-Design&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Style-SASS-informational?style=flat-square&logo=sass&logoColor=white&color=df7444)
 </br>
 </br>
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=Git&logoColor=white&color=df7444)
