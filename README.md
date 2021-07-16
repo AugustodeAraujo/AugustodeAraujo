@@ -14,7 +14,7 @@ Hello there! 👋
 I'm Dennis Augusto, but you can call me Augusto. I'm a advertising graduated in Brazil, currently studying/working on my new carrer as a Software Engineer. 😄
 
  ## 📫 How to reach me:
- ![](https://img.shields.io/badge/Code-AugustoAraujo%231994-informational?style=flat-square&logo=Discord&logoColor=white&color=df7444)
+ ![](https://img.shields.io/badge/Social-AugustoAraujo%231994-informational?style=flat-square&logo=Discord&logoColor=white&color=7289DA)
 
 </br>
 </br>
