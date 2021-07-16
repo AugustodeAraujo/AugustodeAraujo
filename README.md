@@ -35,6 +35,9 @@ I'm Dennis Augusto, but you can call me Augusto. I'm a advertising graduated in 
 </br>
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=df7444)
 ![](https://img.shields.io/badge/Style-SASS-informational?style=flat-square&logo=sass&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat-square&logo=Bootstrap&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Style-Bulma-informational?style=flat-square&logo=Bulma&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat-square&logo=TailwindCSS&logoColor=white&color=df7444)
 </br>
 </br>
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=Git&logoColor=white&color=df7444)
