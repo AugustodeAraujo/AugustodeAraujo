@@ -1,23 +1,21 @@
-
-<p align="center">
-  <div align="center">
-    <font size="5">Augusto de Araujo</font>
-    </br>
-    <font size="3">Software Engineer</font> 
-  </div>
-</p>
-
----
+# Augusto de Araujo
 
 Hello there! 👋
 
 I'm Dennis Augusto, but you can call me Augusto. I'm a advertising graduated in Brazil, currently studying/working on my new carrer as a Software Engineer. 😄
 
+<div>
+  <a href="https://github.com/AugustodeAraujo">
+  <img height="180em" style="padding: 0px" src="https://github-readme-stats.vercel.app/api?username=AugustodeAraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustodeAraujo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+</br>
+
  ## 📫 How to reach me:
  ![](https://img.shields.io/badge/Discord-AugustoAraujo%231994-informational?style=flat-square&logo=Discord&logoColor=white&color=7289DA)
  </br>
  ![](https://img.shields.io/badge/Twitter-%40haterhonesto-informational?style=flat-square&logo=Twitter&logoColor=white&color=1DA1F2)
-
 
 </br>
 
