@@ -45,6 +45,7 @@ I'm Dennis Augusto, but you can call me Augusto. I'm a advertising graduated in 
 
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat-square&logo=Node.js&logoColor=white&color=df7444)
 ![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat-square&logo=Express&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Java&logoColor=white&color=df7444)
 
 <!--
 **AugustodeAraujo/AugustodeAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
