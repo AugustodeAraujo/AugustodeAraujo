@@ -13,9 +13,9 @@ I'm Dennis Augusto, but you can call me Augusto. I'm a advertising graduated in 
 </br>
 
  ## 📫 How to reach me:
- ![](https://img.shields.io/badge/Discord-AugustoAraujo%231994-informational?style=flat-square&logo=Discord&logoColor=white&color=7289DA)
+ ![](https://img.shields.io/badge/Discord-AugustoAraujo%231994-informational?style=for-the-badge&logo=Discord&logoColor=white&color=7289DA)
  </br>
- ![](https://img.shields.io/badge/Twitter-%40haterhonesto-informational?style=flat-square&logo=Twitter&logoColor=white&color=1DA1F2)
+ ![](https://img.shields.io/badge/Twitter-%40haterhonesto-informational?style=for-the-badge&logo=Twitter&logoColor=white&color=1DA1F2)
 
 ## 💼 Skills
 
@@ -43,9 +43,12 @@ I'm Dennis Augusto, but you can call me Augusto. I'm a advertising graduated in 
 
 ## 🌱 I’m currently learning...
 
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat-square&logo=Node.js&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat-square&logo=Express&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Java&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=Node.js&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Framework-ExpressJS-informational?style=for-the-badge&logo=Express&logoColor=white&color=df7444)
+</br>
+![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Framework-Spring-informational?style=for-the-badge&logo=Spring&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=for-the-badge&logo=SpringBoot&logoColor=white&color=df7444)
 
 <!--
 **AugustodeAraujo/AugustodeAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
