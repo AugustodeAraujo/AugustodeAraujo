@@ -19,32 +19,30 @@ I'm Dennis Augusto, but you can call me Augusto. I'm a advertising graduated in 
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=flat-square&logo=Next.js&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=HTML5&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=Node.js&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=df7444)
 </br>
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat-square&logo=MySQL&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat-square&logo=MongoDB&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=df7444)
 </br>
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Style-SASS-informational?style=flat-square&logo=sass&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat-square&logo=Bootstrap&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Style-Bulma-informational?style=flat-square&logo=Bulma&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat-square&logo=TailwindCSS&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Style-SASS-informational?style=for-the-badge&logo=sass&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=for-the-badge&logo=Bootstrap&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Style-Bulma-informational?style=for-the-badge&logo=Bulma&logoColor=white&color=df7444)
 </br>
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=Git&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat-square&logo=GitHub&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Tools-VS.Code-informational?styleflat-squaret&logo=Visual-Studio-Code&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Tools-npm-informational?style=flat-square&logo=npm&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat-square&logo=Yarn&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Tools-Insomnia-informational?style=flat-square&logo=Insomnia&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Tools-npm-informational?style=for-the-badge&logo=npm&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Tools-Yarn-informational?style=for-the-badge&logo=Yarn&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Tools-Insomnia-informational?style=for-the-badge&logo=Insomnia&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=df7444)
 
 ## 🌱 I’m currently learning...
 
-![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=Node.js&logoColor=white&color=df7444)
+
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=white&color=df7444)
 ![](https://img.shields.io/badge/Framework-ExpressJS-informational?style=for-the-badge&logo=Express&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=df7444)
 </br>
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=df7444)
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=for-the-badge&logo=Spring&logoColor=white&color=df7444)
