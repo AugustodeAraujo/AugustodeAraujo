@@ -27,9 +27,7 @@ I'm Dennis Augusto, but you can call me Augusto. I'm a advertising graduated in 
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=df7444)
 </br>
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Style-SASS-informational?style=for-the-badge&logo=sass&logoColor=white&color=df7444)
 ![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=for-the-badge&logo=TailwindCSS&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Style-Bulma-informational?style=for-the-badge&logo=Bulma&logoColor=white&color=df7444)
 </br>
 ![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=df7444)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=df7444)
@@ -45,7 +43,7 @@ I'm Dennis Augusto, but you can call me Augusto. I'm a advertising graduated in 
 ![](https://img.shields.io/badge/Framework-ExpressJS-informational?style=for-the-badge&logo=Express&logoColor=white&color=df7444)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=df7444)
 </br>
-![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=df7444)
+
 
 
 <!--
