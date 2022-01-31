@@ -46,8 +46,7 @@ I'm Dennis Augusto, but you can call me Augusto. I'm a advertising graduated in 
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=df7444)
 </br>
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Framework-Spring-informational?style=for-the-badge&logo=Spring&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=for-the-badge&logo=SpringBoot&logoColor=white&color=df7444)
+
 
 <!--
 **AugustodeAraujo/AugustodeAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
