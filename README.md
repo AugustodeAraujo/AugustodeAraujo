@@ -1,4 +1,4 @@
-# Augusto de Araujo
+# Dennis Augusto
 
 Hello there! 👋
 
