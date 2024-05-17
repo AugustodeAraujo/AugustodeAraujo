@@ -20,11 +20,14 @@ I'm Dennis Augusto, but you can call me Augusto. I'm a advertising graduated in 
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=white&color=df7444)
 ![](https://img.shields.io/badge/Plataform-Node.js-informational?style=for-the-badge&logo=Node.js&logoColor=white&color=df7444)
 ![](https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&logoColor=white&color=df7444)
 ![](https://img.shields.io/badge/Framework-VueJS-informational?style=for-the-badge&logo=Vue.js&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Framework-ExpressJS-informational?style=for-the-badge&logo=Express&logoColor=white&color=df7444)
 </br>
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=df7444)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=df7444)
 </br>
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=df7444)
 ![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=for-the-badge&logo=TailwindCSS&logoColor=white&color=df7444)
@@ -37,11 +40,11 @@ I'm Dennis Augusto, but you can call me Augusto. I'm a advertising graduated in 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=df7444)
 
 ## 🌱 I’m currently learning...
+ ![](https://img.shields.io/badge/Code-Flutter-informational?style=for-the-badge&logo=flutter&logoColor=white)
+ ![](https://img.shields.io/badge/Code-Dart-informational?style=for-the-badge&logo=dart&logoColor=white)
 
 
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Framework-ExpressJS-informational?style=for-the-badge&logo=Express&logoColor=white&color=df7444)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=df7444)
+
 </br>
 
 
