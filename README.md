@@ -2,7 +2,7 @@
 
 Hello there! 👋
 
-I'm Dennis Augusto, but you can call me Augusto. I'm a advertising graduated in Brazil, currently studying/working on my new carrer as a Software Engineer. 😄
+I'm Dennis Augusto, but you can call me Augusto.  😄
 
 <div>
   <a href="https://github.com/AugustodeAraujo">
