@@ -15,7 +15,7 @@ I'm Dennis Augusto, but you can call me Augusto.  😄
  ## 📫 How to reach me:
  ![](https://img.shields.io/badge/Discord-AugustoAraujo%231994-informational?style=for-the-badge&logo=Discord&logoColor=white&color=7289DA)
  </br>
- ![](https://img.shields.io/badge/Twitter-%40haterhonesto-informational?style=for-the-badge&logo=Twitter&logoColor=white&color=1DA1F2)
+ ![](https://img.shields.io/badge/Twitter-%40n1ghtdev-informational?style=for-the-badge&logo=Twitter&logoColor=white&color=1DA1F2)
 
 ## 💼 Skills
 
